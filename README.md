@@ -1,3 +1,8 @@
-lang:speech_balloon:: Java / C# / Dart / TypeScript  
-favo:heart:: Spigot / Unity / Flutter / React  
-prod:iphone:: [Pibrary](https://pibrary.net/) / [コーヒー愛好会ウェブアプリ(contributeｄ)](https://machikane-coffee.web.app/) / MincraServer(wip!)
+## My favorite
+Java / C# / Dart / TypeScript / Spigot / Unity / Flutter / React  
+
+## Products
+### 個人開発
+[Pibrary](https://pibrary.net/) / MincraServer(wip)
+### 共同開発
+[コーヒー愛好会ウェブアプリ](https://machikane-coffee.web.app/)
