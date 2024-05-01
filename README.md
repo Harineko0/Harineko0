@@ -2,6 +2,7 @@
 
 <p float="middle">
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png?raw=true" width="200" />
+  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C%23/C%23%20Purple.png?raw=true" width="200" />
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Figma/Figma.png?raw=true" width="200" /> 
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Flutter/FlutterTransparent.png?raw=true" width="200" />
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png?raw=true" width="200" />
@@ -12,4 +13,8 @@
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/React/React.png?raw=true" width="200" />
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Tailwindcss/Tailwindcss6.png?raw=true" width="200" />
   <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/TypeScript/TypeScript.png?raw=true" width="200" />
+  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/UnityBlender/UnityBlenderT.png?raw=true" width="200" />
+  <img src="" width="200" />
 </p>
+
+Logo by [@sawaratsuki1004](https://twitter.com/sawaratsuki1004)
