@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/harineko0/harineko0/output/snake.svg" alt="Snake animation" />
+[](<img src="https://raw.githubusercontent.com/harineko0/harineko0/output/snake.svg" alt="Snake animation" />)
 
 Logo by [@sawaratsuki1004](https://twitter.com/sawaratsuki1004)
